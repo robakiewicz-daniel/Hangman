@@ -40,11 +40,15 @@ class Game{
         },
         {
             text:'janko muzykant',
-            category:'Cokolwiek',
+            category:'Utwór literacki',
         },
         {
             text:'ogniem i mieczem',
-            category:'Cokolwiek',
+            category:'Utwór literacki',
+        },
+        {
+            text:'Kinder niespodzianka',
+            category:'Słodycz',
         }
     ];
 
